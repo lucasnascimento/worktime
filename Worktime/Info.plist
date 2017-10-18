@@ -41,5 +41,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>In order to define if you are woking We must know your location</string>
+	<key>NSLocationUsageDescription</key>
+	<string>In order to define if you are woking We must know your location</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>In order to define if you are woking We must know your location</string>
 </dict>
 </plist>
